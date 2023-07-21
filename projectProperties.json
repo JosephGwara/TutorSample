@@ -366,6 +366,14 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
+    "kfAppInfo": {
+        "a4c7b5e9-0893-41ed-9258-e6b49db839bb": {
+            "appName": "TutorSample",
+            "baseId": "6ffbbba0-8159-4748-b385-1af8d3ae86f6",
+            "id": "6ffbbba0-8159-4748-b385-1af8d3ae86f6",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "9.5.11",
     "lastmodifiedtime": "1689622188467",
     "location": "false",

@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": "50"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "56.02%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2f6da2405bb4b61bfce58f0f3e2075a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer0d1de6e0e375743",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "he47c04f75664b60af606552dcd383a6",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "LoginAndRegForm",
+    "pf": "LoginAndRegForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

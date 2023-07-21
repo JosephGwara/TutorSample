@@ -1,0 +1,31 @@
+{
+    "AS_Button_fcd2899118734ebca7ef6c30a71c2872": {
+        "id": "AS_Button_fcd2899118734ebca7ef6c30a71c2872",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "LoginAndRegForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aa07bec58799417a864a3827dfee98b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__cab6491549cf48d083e32611113bd160",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "StudentRegForm",
+            "formKUID": "b05db3d12f044affb828888e8a2249c3",
+            "projectName": "TutorSample",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

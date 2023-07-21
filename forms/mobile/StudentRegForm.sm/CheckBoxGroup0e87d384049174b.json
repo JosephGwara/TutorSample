@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "147dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s02f3789b91249e89c0206c26391c665",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "89.30%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "id": "CheckBoxGroup0e87d384049174b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "h743d5a8678b4844abe7c32fc010b00c",
+    "masterdata": [
+        [
+            "Mathematics",
+            "Mathematics"
+        ],
+        [
+            "Physical Science",
+            "Physical Science"
+        ],
+        [
+            "Life Orientation",
+            "Life Orientation"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "paddinginpixel": false,
+    "parent": "SubjectsFlexContainer",
+    "pf": "StudentRegForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": [],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

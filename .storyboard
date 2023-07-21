@@ -2,15 +2,44 @@
     "models": {
         "mobile": {
             "class": "GraphLinksModel",
-            "linkDataArray": [],
+            "linkDataArray": [
+                {
+                    "actionId": null,
+                    "from": "aa07bec58799417a864a3827dfee98b1",
+                    "points": [
+                        183.2,
+                        194.445263671875,
+                        193.2,
+                        194.445263671875,
+                        205.6,
+                        194.445263671875,
+                        205.6,
+                        394.44526367187495,
+                        218,
+                        394.44526367187495,
+                        228,
+                        394.44526367187495
+                    ],
+                    "softLink": true,
+                    "to": "b05db3d12f044affb828888e8a2249c3"
+                }
+            ],
             "nodeDataArray": [
                 {
                     "formKUID": "aa07bec58799417a864a3827dfee98b1",
-                    "formName": "Form1",
+                    "formName": "LoginAndRegForm",
                     "isStartupForm": true,
                     "key": "aa07bec58799417a864a3827dfee98b1",
                     "loc": "8 24.845263671875003",
-                    "thumbnailURL": null
+                    "thumbnailURL": "/assets/TutorSample/forms/mobile/LoginAndRegForm.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "b05db3d12f044affb828888e8a2249c3",
+                    "formName": "StudentRegForm",
+                    "isStartupForm": false,
+                    "key": "b05db3d12f044affb828888e8a2249c3",
+                    "loc": "228 224.845263671875",
+                    "thumbnailURL": "/assets/TutorSample/forms/mobile/StudentRegForm.sm/.thumbs/default.jpeg"
                 }
             ]
         }
